@@ -4,12 +4,12 @@ A simple and efficient Python application that extracts email addresses from a t
 
 ## ✨ Features
 
-- 📄 Reads text from an input file
-- 🔍 Extracts valid email addresses using Regex
-- 🚫 Removes duplicate email addresses while preserving order
-- 💾 Saves extracted emails into an output file
-- ⚠️ Automatically creates a sample input file if none exists
-- 🖥️ Displays extraction results in a clean console output
+-  Reads text from an input file
+-  Extracts valid email addresses using Regex
+-  Removes duplicate email addresses while preserving order
+-  Saves extracted emails into an output file
+-  Automatically creates a sample input file if none exists
+-  Displays extraction results in a clean console output
 
 ---
 
